@@ -1,4 +1,4 @@
-<h1>This is Test APP Service Deployment _ Edited File 2 - new edit</h1>
+<h1>This is Test APP Service Deployment _ Edited File 2 - new edit - Sample code Deployment</h1>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
